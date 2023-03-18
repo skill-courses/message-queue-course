@@ -1,2 +1,2 @@
-# kafka-course
-史上最简单易学的kafka教程
+# Message Queue Course
+史上最简单易学的MQ教程
